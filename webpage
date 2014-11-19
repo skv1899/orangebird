@@ -4,12 +4,9 @@
   <head>
     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     
-    <link rel="stylesheet" href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap.css">
-    <link rel="stylesheet" href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap.css.map">
-    <link rel="stylesheet" href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap-theme.css">
-    <link rel="stylesheet" href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap-theme.css.map">
+    
+    <link href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap.css" rel="stylesheet">
+    
     <style>
     .nav a {
   color: #5a5a5a;
