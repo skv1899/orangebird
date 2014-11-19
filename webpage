@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Images</a></li>
+          <li><a href="#">Links</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="#">Sign Up</a></li>
+          <li><a href="#">Log In</a></li>
+          <li><a href="#">Help</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>This is my first webpage.</h1>
+        <p>I am making it my own and decorating it with Disney's Florida Orange Bird.</p>
+        <a href="#">Learn More</a>
+      </div>
+    </div> 
+<div class="neighborhood-guides">
+ <div class="container">
+  <h2>Pictues of Orange Birds</h2>
+   <p>Here are a bunch of random pictures of the Florida Orange Bird</p>
+    <div class="row">
+     <div class="col-md-4">
+       <img src="http://3.bp.blogspot.com/-YgnaAlfxYzQ/UU2BrS55eTI/AAAAAAAAAKQ/4S0B6dMK2KM/s1600/Orange+bird.jpg" width="320" height="200">
+
+       <img src="https://c2.staticflickr.com/2/1134/1439155446_0563c12fda.jpg" width="320" height="200">
+
+     </div>
+     <div class="col-md-4">
+
+       <img src="http://www.chipandco.com/wp-content/uploads/2012/04/Orange-Bird-Pin.jpg" width="320" height="200">
+     
+<img src="http://naturetime.files.wordpress.com/2012/11/orange-bird-florida.jpg" width="320" height="200">
+      
+     </div>
+     <div class="col-md-4">
+      
+       <img src="http://parksandresorts.wdpromedia.com/media/disneyparks/blog/wp-content/uploads/2012/04/obm792034LARGE.jpg" width="320" height="400">
+      
+     </div>
+    </div>
+   </div>
+  </div>
+    <div class="learn-more">
+	  <div class="container">
+		<div class="row">
+	      <div class="col-md-4">
+			<h3>Sunshine Tree Terrace</h3>
+			<p>Enjoy citrus swirls in Orange Bird cups at Walt Disney World's Magic Kingdom spot, Sunshine Tree Terrace, in Adventureland.</p>
+			<p><a href="https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/">Official Disney Page</a></p>
+	      </div>
+		  <div class="col-md-4">
+			<h3>Other Interesting Stuff</h3>
+			<p>I'm sure I could find more interesting things to say later.</p>
+			<p><a href="#">Relevant Link</a></p>
+		  </div>
+		  <div class="col-md-4">
+			<h3>Something Else to Say</h3>
+			<p>Here's where I could say something else relevant and interesting.</p>
+			<p><a href="#">Another Relevant Link</a></p>
+		  </div>
+	    </div>
+	  </div>
+	</div>
+  </body>
+</html>
