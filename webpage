@@ -4,7 +4,7 @@
   <head>
     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     
-    <link rel="stylesheet" href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="https://github.com/skv1899/orangebird/blob/master/dist/css/bootstrap.min.css">
     <style>
     .nav a {
   color: #5a5a5a;
